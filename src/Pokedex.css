@@ -1,0 +1,8 @@
+.Pokedex {
+  background: red;
+  color: white;
+  width: 300px;
+  margin: 0 auto;
+  height: 500px;
+  border-radius: 10px;
+}

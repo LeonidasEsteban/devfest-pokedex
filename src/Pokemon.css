@@ -1,0 +1,20 @@
+.Pokemon {
+  /*background: peru;*/
+  padding: 1px;
+}
+
+.Pokemon-name {
+  text-align: center;
+  font-size: 20px;
+}
+
+.Pokemon-window {
+  background: #51cfe7;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.Pokemon img {
+  max-width: 100%;
+}
