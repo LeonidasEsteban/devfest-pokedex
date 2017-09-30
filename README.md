@@ -1,3 +1,6 @@
+## Pruebalo en 
+https://devfest-pokemon.now.sh/
+
 ## Pre requisitos
 Tener instalado node y npm https://nodejs.org/es/ 
 ## instalación
